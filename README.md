@@ -2,6 +2,8 @@
 
 # Trendyol Web Automation Test
 
+[Test Case Template](https://1drv.ms/x/s!Ak59gRJ7UjMmgSMNl2wX8jyO7fPr?e=00DNtb)
+
 This project is a web automation test for Trendyol using Selenium with Java and JUnit4.
 
 ## Project Structure
