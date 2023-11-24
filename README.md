@@ -10,10 +10,9 @@ This project is a web automation test for Trendyol using Selenium with Java and 
 
 The project follows Object-Oriented Programming (OOP) principles and has the following structure:
 
-- **src/main/java**: Contains the main source code.
+- **src/test/java**: Contains the test cases.
   - `pages`: Page Object classes representing different pages of the application.
   - `utilities`: Utility classes for common functions.
-- **src/test/java**: Contains the test cases.
   - `tests`: Test classes for the steps defined in the test case.
 - **src/test/resources**: Contains resources such as feature files (for BDD if used) or any other test-related resources.
 - **pom.xml**: Maven project configuration file.
@@ -26,6 +25,7 @@ The project follows Object-Oriented Programming (OOP) principles and has the fol
 ## Dependencies
 
 - Selenium WebDriver
+- Cucumber
 - JUnit4
 - Log4J
 
